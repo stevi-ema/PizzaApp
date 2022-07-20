@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/fragmentProfile"
+        android:title="Account"
+        android:icon="@drawable/ic_person_white"/>
+
+    <item android:id="@+id/fragmentMakanan"
+        android:title="Menu"
+        android:icon="@drawable/ic_menu_book_white"/>
+
+    <item android:id="@+id/placeholder"
+        android:title=""/>
+
+    <item android:id="@+id/fragmentTransaction"
+        android:title="Transaction"
+        android:icon="@drawable/ic_shopping_cart_white"/>
+
+    <item android:id="@+id/fragmentReport"
+        android:title="Report"
+        android:icon="@drawable/ic_chart_white"/>
+</menu>
